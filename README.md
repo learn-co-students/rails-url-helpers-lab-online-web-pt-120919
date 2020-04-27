@@ -26,6 +26,7 @@ In this lab you will be building out the Student management dashboard for the Fl
 
 ## Keep in mind
 
+
 - Make sure the show path is `/students/:id`, where `:id` is a route variable.
 
 - Call the Student class instance method `to_s` on each of the students on the index page so that each student element contains their first and last name.
